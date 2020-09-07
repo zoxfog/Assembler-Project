@@ -1,7 +1,7 @@
 # Assembler-Project
 
 ## Description
-This project is represents an assembler. Given 20 different commands that are ment to be processed by a comupter, this program translates the commands to machine language so that the computer can distinguish between the intended actions.
+This project is represents an assembler. Given 16 different commands that are ment to be processed by a comupter, this program translates the commands to machine language so that the computer can distinguish between the intended actions.
 Each command is translated into binary code and stored in a different memory set. In this projects the memory sets are 7 Registers and a RAM (stack).
 
 Each command is also reflected by its own attrubutes:
@@ -13,4 +13,4 @@ To address the various restrictions each command may present I created the flags
 flags acts a unique data structure which is consists of different flags in order to avoid errors.
 
 
-
+*This is a University project.

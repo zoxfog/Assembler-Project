@@ -13,4 +13,4 @@ To address the various restrictions each command may present I created the flags
 flags acts a unique data structure which is consists of different flags in order to avoid errors.
 
 
-*This is a University project.
+*This is a university class project.

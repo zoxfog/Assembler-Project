@@ -16,7 +16,7 @@ To address the various restrictions each command may present I therefore created
 
 Run example:<br/>
 ############################################<br/>
-############################################<br/>
+############################################<img src="https://raw.githubusercontent.com/zoxfog/Assembler-Project/master/run%20example/test3.png" width="700" height="300"><br/>
 LOOP: prn #48<br/>
 LABEL1:     .entry <br/>
 LABEL2<br/>

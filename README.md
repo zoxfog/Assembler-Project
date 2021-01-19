@@ -42,5 +42,7 @@ K: .data 31<br/>
 ############################################<br/>
 ############################################<br/>
 
+<img src="https://raw.githubusercontent.com/zoxfog/Assembler-Project/master/run%20example/test3.png" width="700" height="300">
+
 
 *This is a university class project.

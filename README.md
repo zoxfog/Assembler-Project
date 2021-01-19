@@ -28,19 +28,19 @@ mov r1r2<br/>
 mov r1 r2<br/>
  cmp  #-6<br/>
      bne END<br/>
-     dec K
-     jmp LOOP
-END: stop
-STR: .string "abcd"
-STR: .string "abcd"
-LIST: .data 6, -9
- .data -100
- .data "artt"
- .string 5
- .data
-K: .data 31
-############################################
-############################################
+     dec K<br/>
+     jmp LOOP<br/>
+END: stop<br/>
+STR: .string "abcd"<br/>
+STR: .string "abcd"<br/>
+LIST: .data 6, -9<br/>
+ .data -100<br/>
+ .data "artt"<br/>
+ .string 5<br/>
+ .data<br/>
+K: .data 31<br/>
+############################################<br/>
+############################################<br/>
 
 
 *This is a university class project.

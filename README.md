@@ -25,20 +25,7 @@ laaaaaaaaaaaaaaaaaaaaaaaa<br/>
  mov #56,#56<br/>
  sub r1, r4 , r3, K<br/>
 mov r1r2<br/>
-mov r1 r2<br/>
- cmp  #-6<br/>
-     bne END<br/>
-     dec K<br/>
-     jmp LOOP<br/>
-END: stop<br/>
-STR: .string "abcd"<br/>
-STR: .string "abcd"<br/>
-LIST: .data 6, -9<br/>
- .data -100<br/>
- .data "artt"<br/>
- .string 5<br/>
- .data<br/>
-K: .data 31<br/>
+
 ############################################<br/>
 ############################################<br/>
 

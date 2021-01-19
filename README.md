@@ -16,12 +16,12 @@ To address the various restrictions each command may present I therefore created
 
 Run example:<br/>
 ############################################<br/>
-############################################<img src="https://raw.githubusercontent.com/zoxfog/Assembler-Project/master/run%20example/test3.png" width="700" height="300"><br/>
+############################################<br/>
 LOOP: prn #48<br/>
 LABEL1:     .entry <br/>
 LABEL2<br/>
 LABE*L3: inc 
-laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br/>
+laaaaaaaaaaaaaaaaaaaaaaaa<br/>
  mov #56,#56<br/>
  sub r1, r4 , r3, K<br/>
 mov r1r2<br/>
@@ -42,7 +42,7 @@ K: .data 31<br/>
 ############################################<br/>
 ############################################<br/>
 
-<img src="https://raw.githubusercontent.com/zoxfog/Assembler-Project/master/run%20example/test3.png" width="700" height="300">
+<img src="https://raw.githubusercontent.com/zoxfog/Assembler-Project/master/run%20example/test3.png" width="850" height="600">
 
 
 *This is a university class project.

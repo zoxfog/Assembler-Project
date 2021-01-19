@@ -14,20 +14,20 @@ To address the various restrictions each command may present I therefore created
 
 
 
-Run example:
-############################################
-############################################
-LOOP: prn #48
-LABEL1:     .entry 
-LABEL2
+Run example:<br/>
+############################################<br/>
+############################################<br/>
+LOOP: prn #48<br/>
+LABEL1:     .entry <br/>
+LABEL2<br/>
 LABE*L3: inc 
-laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
- mov #56,#56
- sub r1, r4 , r3, K
-mov r1r2
-mov r1 r2
- cmp  #-6
-     bne END
+laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br/>
+ mov #56,#56<br/>
+ sub r1, r4 , r3, K<br/>
+mov r1r2<br/>
+mov r1 r2<br/>
+ cmp  #-6<br/>
+     bne END<br/>
      dec K
      jmp LOOP
 END: stop
